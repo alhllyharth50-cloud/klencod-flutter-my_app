@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "com.exable.my_app"
         minSdk = 24
-        targetSdk = 24
+        targetSdk = 36
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
